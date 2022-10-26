@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/morgan": "^1.9.3",
+    "@types/mysql": "^2.15.21",
+    "@types/promise": "^7.1.30"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "promise-mysql": "^3.3.1"
+  }
+}
